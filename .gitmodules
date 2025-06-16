@@ -1,0 +1,3 @@
+[submodule "OfficeProto"]
+	path = OfficeProto
+	url = git@github.com:IbragimovAsRa/OfficeProto.git
